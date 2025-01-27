@@ -18,7 +18,7 @@ A sleek and user-friendly **Random Password Generator** built using **HTML**, **
 
 ## 🖥️ Preview
 
-![Random Password Generator](images/screenshot.png)
+![preview](https://github.com/user-attachments/assets/d1395eb5-8509-4f82-931a-2fe255a3091c)
 
 ---
 
@@ -61,10 +61,10 @@ Random Password Generator/
 ## 📸 Screenshots
 
 ### 1. Initial View
-![Initial View](images/initial.png)
+![preview](https://github.com/user-attachments/assets/89bc3866-c1bb-4228-abd1-d204ac2b4882)
 
 ### 2. Password Generated
-![Password Generated](images/generated.png)
+![pass](https://github.com/user-attachments/assets/ff076c00-e39f-4246-8d79-a7aec724eaea)
 
 ---
 
