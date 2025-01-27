@@ -46,7 +46,7 @@ Random Password Generator/
 
 ## 🌟 Demo
 
-> Check out the live demo of the project: [Random Password Generator](#)
+> Check out the live demo of the project: [Random Password Generator](https://random-password-generator-five-beta.vercel.app/)
 
 ---
 
