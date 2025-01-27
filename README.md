@@ -106,11 +106,3 @@ Contributions, issues, and feature requests are welcome!
 This project is licensed under the **MIT License**.  
 
 ---
-
-⭐ Don't forget to **star** this repository if you found it useful!
-```
-
-### Notes:
-1. Replace placeholder links like `https://github.com/your-username` and `#` with actual URLs (e.g., your GitHub repository or live demo link).
-2. Add actual screenshots in the `images/` folder and update the screenshot links in the README.
-3. Let me know if you need help deploying the project or customizing the README further! 😊
